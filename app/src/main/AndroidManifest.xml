@@ -6,7 +6,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/download"
-        android:label="MyApps"
+        android:label="Velvet"
         android:roundIcon="@drawable/download"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloToast">
