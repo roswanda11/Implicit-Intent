@@ -14,6 +14,10 @@
     <td>Kelas</td>
     <td>TI.22.A3</td>
   </tr>
+  <tr>
+    <td>Mata Kuliah</td>
+    <td>Pemrograman Mobile</td>
+  </tr>
 </table>
 
 # <p align="center">Implicit Intents</p>
