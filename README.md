@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-# <p align="center">Implisit Intents</p>
+# <p align="center">Implicit Intents</p>
 
 
 
