@@ -299,6 +299,10 @@ Di sini saya sudah menyiapkan kodingannya:
           </application>
       </manifest>
 
+# 6. Jika sudah sekarang kita bisa menjalankan ic launch aplikasinya :
+
+
+
 # Output
 
 # ic launcer
@@ -332,16 +336,4 @@ Di sini saya sudah menyiapkan kodingannya:
 # e. Project Set Alarm
 
 ![IMG-20231119-WA0088](https://github.com/roswanda11/Implicit-Intent/assets/115516632/bb903cd6-eddf-4cc6-b4e6-fbc21674e174)
-
-
-
-
-
-
-
-
-
-
-
-
 
