@@ -172,7 +172,7 @@ Di sini namanya ```activity_home.xml```, anda bisa menyesuaikan dengan nama xm a
 
 ![Screenshot (514)](https://github.com/roswanda11/Implicit-Intent/assets/115516632/ae123f5c-ce7c-4fa5-a198-1d3a6885794a)
 
-# 4. Lalu atur MainActivity (MainActivity.java)
+# 4. Lalu atur MainActivity ```(MainHomePage.java)```
 
 Karena saya sudah membuat activity sebelumnya untuk masing-masing project maka tinggal edit mainactivitynya tidak usah bikin activity satu-satu lagi: Di sini, kita akan menampilkan daftar project dan menangani eksplicit intent. nama saya MainHomePage.java, kalian bisa menyesuaikan dengan nama kalian.
 
@@ -263,7 +263,7 @@ Karena saya sudah membuat activity sebelumnya untuk masing-masing project maka t
           }
       }
 
-# 5. berikutnya adalah untuk mengedit file AndroidManifest.xml untuk aplikasi Android dengan SplashScreenActivity dan MainActivity yang akan memulai tujuh project menggunakan eksplicit dan implisit intent:
+# 5. Mengedit file ```AndroidManifest.xml``` untuk aplikasi Android dengan SplashScreenActivity dan MainActivity yang akan memulai tujuh project menggunakan eksplicit dan implisit intent:
 
 Di sini saya sudah menyiapkan kodingannya:
 
@@ -302,3 +302,46 @@ Di sini saya sudah menyiapkan kodingannya:
 # Output
 
 # ic launcer
+
+![IMG-20231119-WA0096](https://github.com/roswanda11/Implicit-Intent/assets/115516632/9c217aa9-af00-40f6-adbe-8cfd3928d9fa)
+
+# Luncher Splash
+
+![IMG-20231119-WA0094](https://github.com/roswanda11/Implicit-Intent/assets/115516632/2639693f-706f-4523-a950-e2610d04312e)
+
+# Home
+
+![IMG-20231119-WA0093](https://github.com/roswanda11/Implicit-Intent/assets/115516632/c33bb094-811d-4a70-85f6-abaad223cd71)
+
+# a. Project Hello Toast
+
+![IMG-20231119-WA0092](https://github.com/roswanda11/Implicit-Intent/assets/115516632/e3d1f1e0-3dc8-4b93-b2a8-9f003bf5ebfb)
+
+# b. Project Count
+
+![IMG-20231119-WA0097](https://github.com/roswanda11/Implicit-Intent/assets/115516632/5cee2a42-f52e-4289-b4b5-8a11e9608f3f)
+
+# c. Project Sianida
+
+![IMG-20231119-WA0090](https://github.com/roswanda11/Implicit-Intent/assets/115516632/8fda648f-5b24-470d-97b0-6502ddf28786)
+
+# d. Project TwoActivity
+
+![IMG-20231119-WA0098](https://github.com/roswanda11/Implicit-Intent/assets/115516632/bd70fe03-6a7b-4e22-8cbb-428d4911d205)
+
+# e. Project Set Alarm
+
+![IMG-20231119-WA0088](https://github.com/roswanda11/Implicit-Intent/assets/115516632/bb903cd6-eddf-4cc6-b4e6-fbc21674e174)
+
+
+
+
+
+
+
+
+
+
+
+
+
