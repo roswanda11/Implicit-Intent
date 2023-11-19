@@ -315,7 +315,7 @@ Di sini saya sudah menyiapkan kodingannya:
 
 # a. Project Hello Toast
 
-![IMG-20231119-WA0092](https://github.com/roswanda11/Implicit-Intent/assets/115516632/e3d1f1e0-3dc8-4b93-b2a8-9f003bf5ebfb)
+![WhatsApp Image 2023-11-19 at 02 43 53](https://github.com/roswanda11/Implicit-Intent/assets/115516632/f2835903-c116-4494-a86a-acc97d1d8211)
 
 # b. Project Count
 
