@@ -302,6 +302,7 @@ Di sini saya sudah menyiapkan kodingannya:
 # 6. Jika sudah sekarang kita bisa menjalankan ic launch aplikasinya :
 
 
+https://github.com/roswanda11/Implicit-Intent/assets/115516632/f0d49e56-46d6-4dd5-a867-b888570ad17f
 
 # Output
 
